@@ -1,9 +1,9 @@
 <!--
 .. title: Why do I post
 .. slug: why-i-post
-.. date: 2016-08-29 15:29:40 UTC
-.. tags: 
-.. category: 
+.. date: 2020-11-29 23:29:40 PST
+.. tags: general
+.. category: general
 .. link: 
 .. description: 
 .. type: text
