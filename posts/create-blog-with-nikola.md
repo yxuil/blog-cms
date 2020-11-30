@@ -1,7 +1,7 @@
 <!--
 .. title: Create a blog site with Nikola, gitnub, and Netlify
 .. slug: create-blog-with-nikola
-.. date: 2020-11-30 18:28:40 PST
+.. date: 2020-11-30 18:28:40 UTC
 .. tags: 
 .. category: 
 .. link: 
