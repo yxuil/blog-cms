@@ -1,7 +1,7 @@
 <!--
 .. title: Why do I post
 .. slug: why-i-post
-.. date: 2020-11-29 23:29:40 PST
+.. date: 2020-11-29 23:29:40 UTC
 .. tags: 
 .. category: 
 .. link: 
