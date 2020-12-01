@@ -30,7 +30,8 @@ should fork the Nikola blog-template from github: [Nikola blog-template](http://
 
 ## Build Nikola blog with Netlify
 
-TBD
+[Netlify](https://www.netlify.com/) is "The fastest way to build fastest website". You can connect you github repository 
+to Netlify and publish the website. Nikola blog-template provides a shortcut to simply the process. Just click ![alt text](https://camo.githubusercontent.com/417d890ba67c98ad5856b715343a61cdbf07d72b9bd5b79dd45d43de634c29ea/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667) and follow the instruction.
 
 ## Configure Netlify
 
